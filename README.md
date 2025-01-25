@@ -4,9 +4,9 @@
 
 ## Collaborators
 
-- Vivian Ludrick
-- Badal Singh
-- Ronit Naik
+- [Vivian Ludrick](https://github.com/vivalchemy)
+- [Badal Singh](https://github.com/BadalSingh2)
+- [Ronit Naik](https://github.com/RonitNaik122)
 
 ## License
 
@@ -69,7 +69,7 @@ npm run dev
 
 ## Video Demonstration
 
-[Link to YouTube video showing Langflow workflow, DataStax usage, and GPT insights]
+[Video showing Langflow workflow, DataStax usage, and GPT insights](https://www.youtube.com/watch?v=dhOvx66LUqc&t)
 
 ## Contribution
 
@@ -77,4 +77,4 @@ Feel free to open issues or submit pull requests if you'd like to contribute to 
 
 ---
 
-MIT License © [Your Name or Your Team Name]
+MIT License © [Team Vermithor]
